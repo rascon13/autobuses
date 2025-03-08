@@ -123,11 +123,11 @@
             LNOMBRE = new Label();
             LAPELLIDO = new Label();
             TXT_NOMBRE = new TextBox();
-            textBox2 = new TextBox();
+            TXT_APELLIDO = new TextBox();
             TXT_TELEFONO = new TextBox();
             label2 = new Label();
             label3 = new Label();
-            textBox1 = new TextBox();
+            TXT_PRECIO = new TextBox();
             BTN_ACEPTAR = new Button();
             BTN_CANCELAR = new Button();
             CB_ORIGEN = new ComboBox();
@@ -1246,14 +1246,14 @@
             TXT_NOMBRE.Size = new Size(182, 25);
             TXT_NOMBRE.TabIndex = 4;
             // 
-            // textBox2
+            // TXT_APELLIDO
             // 
-            textBox2.BorderStyle = BorderStyle.FixedSingle;
-            textBox2.Font = new Font("Consolas", 9F, FontStyle.Bold);
-            textBox2.Location = new Point(220, 346);
-            textBox2.Name = "textBox2";
-            textBox2.Size = new Size(182, 25);
-            textBox2.TabIndex = 5;
+            TXT_APELLIDO.BorderStyle = BorderStyle.FixedSingle;
+            TXT_APELLIDO.Font = new Font("Consolas", 9F, FontStyle.Bold);
+            TXT_APELLIDO.Location = new Point(220, 346);
+            TXT_APELLIDO.Name = "TXT_APELLIDO";
+            TXT_APELLIDO.Size = new Size(182, 25);
+            TXT_APELLIDO.TabIndex = 5;
             // 
             // TXT_TELEFONO
             // 
@@ -1284,14 +1284,14 @@
             label3.TabIndex = 9;
             label3.Text = "PRECIO:";
             // 
-            // textBox1
+            // TXT_PRECIO
             // 
-            textBox1.BorderStyle = BorderStyle.FixedSingle;
-            textBox1.Font = new Font("Book Antiqua", 9F);
-            textBox1.Location = new Point(12, 526);
-            textBox1.Name = "textBox1";
-            textBox1.Size = new Size(182, 26);
-            textBox1.TabIndex = 8;
+            TXT_PRECIO.BorderStyle = BorderStyle.FixedSingle;
+            TXT_PRECIO.Font = new Font("Book Antiqua", 9F);
+            TXT_PRECIO.Location = new Point(12, 526);
+            TXT_PRECIO.Name = "TXT_PRECIO";
+            TXT_PRECIO.Size = new Size(182, 26);
+            TXT_PRECIO.TabIndex = 8;
             // 
             // BTN_ACEPTAR
             // 
@@ -1473,10 +1473,10 @@
             Controls.Add(BTN_CANCELAR);
             Controls.Add(BTN_ACEPTAR);
             Controls.Add(label3);
-            Controls.Add(textBox1);
+            Controls.Add(TXT_PRECIO);
             Controls.Add(label2);
             Controls.Add(TXT_TELEFONO);
-            Controls.Add(textBox2);
+            Controls.Add(TXT_APELLIDO);
             Controls.Add(TXT_NOMBRE);
             Controls.Add(LAPELLIDO);
             Controls.Add(LNOMBRE);
@@ -1588,11 +1588,11 @@
         private Label LNOMBRE;
         private Label LAPELLIDO;
         private TextBox TXT_NOMBRE;
-        private TextBox textBox2;
+        private TextBox TXT_APELLIDO;
         private TextBox TXT_TELEFONO;
         private Label label2;
         private Label label3;
-        private TextBox textBox1;
+        private TextBox TXT_PRECIO;
         private Button BTN_ACEPTAR;
         private Button BTN_CANCELAR;
         private ComboBox CB_ORIGEN;
