@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Universidad Autonoma de Occidente\\SEMESTRE 6\\MATERIAS\\Sistemas Para La Toma De Decisiones\\RUTAAUTOBUS\\RUTAAUTOBUS\\RUTAAUTOBUS.csproj",
+      "projectUniqueName": "C:\\Universidad Autonoma de Occidente\\SEMESTRE 6\\MATERIAS\\Sistemas Para La Toma De Decisiones\\RUTAAUTOBUS\\autobuses\\RUTAAUTOBUS\\RUTAAUTOBUS.csproj",
       "projectName": "RUTAAUTOBUS",
-      "projectPath": "C:\\Universidad Autonoma de Occidente\\SEMESTRE 6\\MATERIAS\\Sistemas Para La Toma De Decisiones\\RUTAAUTOBUS\\RUTAAUTOBUS\\RUTAAUTOBUS.csproj",
+      "projectPath": "C:\\Universidad Autonoma de Occidente\\SEMESTRE 6\\MATERIAS\\Sistemas Para La Toma De Decisiones\\RUTAAUTOBUS\\autobuses\\RUTAAUTOBUS\\RUTAAUTOBUS.csproj",
       "packagesPath": "C:\\Users\\Alan\\.nuget\\packages\\",
-      "outputPath": "C:\\Universidad Autonoma de Occidente\\SEMESTRE 6\\MATERIAS\\Sistemas Para La Toma De Decisiones\\RUTAAUTOBUS\\RUTAAUTOBUS\\obj\\",
+      "outputPath": "C:\\Universidad Autonoma de Occidente\\SEMESTRE 6\\MATERIAS\\Sistemas Para La Toma De Decisiones\\RUTAAUTOBUS\\autobuses\\RUTAAUTOBUS\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

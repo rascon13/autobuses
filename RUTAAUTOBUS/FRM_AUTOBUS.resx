@@ -121,7 +121,7 @@
   <data name="GB_LOGO.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAYAAADDPmHLAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAO
-        wAAADsABataJCQAAT9ZJREFUeF7tfQVUHNm6dU0mMxlPMnECcfdMXCZuxN3diDs0xI0QNwJRILi7u3vj
+        vwAADr8BOAVTJAAAT9ZJREFUeF7tfQVUHNm6dU0mMxlPMnECcfdMXCZuxN3diDs0xI0QNwJRILi7u3vj
         3o3G3RO02f86p6qa6oLMm/veu/e9d3++tfY65XK+fT6rQ8Mw9VIv9VIv9VIv9VIv9VIv9VIv9VIv9VIv
         9VIv9VIv9VIv9VIv9VIv9VIv9VIv9VIv9VIv/1cFoccaovhgG+QdGIB8HU3k6ayBXLITMm0JZDo6qpBs
         RZ72Msi1xyNPpydKdJsCzDfia9bL/1JB/v6WyNeeCLlkP2QSG8h14yGTPINMUgq5LlhIuFYM4XYJIJNU
@@ -2254,7 +2254,7 @@
   <data name="BTN_CHOFER.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAO
-        wAAADsABataJCQAAAnlJREFUWEfVl72OTlEUhp8EoTCJiCi4AZWhoVFJuAAhmEIx7Uw3lStQIKHUaIWK
+        vwAADr8BOAVTJAAAAnlJREFUWEfVl72OTlEUhp8EoTCJiCi4AZWhoVFJuAAhmEIx7Uw3lStQIKHUaIWK
         CAoKrkCrQEQhkYhWIoI8yV6TPWv2Pt/5DmPiTVays37etc7+WXsf+A+xBzgJLAGrRRyr07Yl2AlcAp4C
         34BfHdH2DLgM7MokU3EBeFcl+QI8Aq4Ba0UcPyy28HtfYidjAbhfyH4CT4CzwI7sWEGbPvoaY+yDwjUX
         DgKvC4Fffzo7jIAxMXNyyTkKVhvJnwP7ssMcMFaOKGLUTMS0G7g7GydAjihC7kG4aWLa/+TLM+SK5ehu

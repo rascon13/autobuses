@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RUTAAUTOBUS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ed265bfec4e2f25c53750806ef7deb094affdd71")]
 [assembly: System.Reflection.AssemblyProductAttribute("RUTAAUTOBUS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RUTAAUTOBUS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

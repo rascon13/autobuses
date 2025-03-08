@@ -6,5 +6,10 @@ namespace RUTAAUTOBUS
         {
             InitializeComponent();
         }
+
+        private void FRM_AUTOBUS_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

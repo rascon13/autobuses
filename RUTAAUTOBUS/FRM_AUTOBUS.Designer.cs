@@ -1485,6 +1485,7 @@
             Icon = (Icon)resources.GetObject("$this.Icon");
             Name = "FRM_AUTOBUS";
             Text = "AUTOBUS";
+            Load += FRM_AUTOBUS_Load;
             GB_CAMION.ResumeLayout(false);
             GB_CAMION.PerformLayout();
             ResumeLayout(false);
