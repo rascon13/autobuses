@@ -1,6 +1,6 @@
 ﻿namespace RUTAAUTOBUS
 {
-    partial class Form1
+    partial class FRM_AUTOBUS
     {
         /// <summary>
         ///  Required designer variable.
@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FRM_AUTOBUS));
             GB_LOGO = new GroupBox();
             BTN_WC = new Button();
             L44 = new Label();
@@ -1458,7 +1458,7 @@
             GB_CAMION.TabIndex = 16;
             GB_CAMION.TabStop = false;
             // 
-            // Form1
+            // FRM_AUTOBUS
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
@@ -1482,7 +1482,8 @@
             Controls.Add(LNOMBRE);
             Controls.Add(GB_LOGO);
             DoubleBuffered = true;
-            Name = "Form1";
+            Icon = (Icon)resources.GetObject("$this.Icon");
+            Name = "FRM_AUTOBUS";
             Text = "AUTOBUS";
             GB_CAMION.ResumeLayout(false);
             GB_CAMION.PerformLayout();

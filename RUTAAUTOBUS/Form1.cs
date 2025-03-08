@@ -1,8 +1,8 @@
 namespace RUTAAUTOBUS
 {
-    public partial class Form1 : Form
+    public partial class FRM_AUTOBUS : Form
     {
-        public Form1()
+        public FRM_AUTOBUS()
         {
             InitializeComponent();
         }
